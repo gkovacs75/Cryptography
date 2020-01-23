@@ -1,0 +1,9 @@
+﻿Algorithms play the central role both in the science and practice of computing.
+Recognition of this fact has led to the appearance of a considerable number
+of textbooks on the subject. By and large,  they follow one of two alternatives
+in presenting algorithms. One classifies algorithms according to a problem type.
+Such a book would have separate chapters on algorithms for sorting, searching,
+graphs, and so on. The advantage of this approach is that it allows an immediate
+comparison of, say, the efficiency of different algorithms for the same problem.
+The drawback of this approach is that it emphasizes problem types at the expense
+of algorithm design techniques.

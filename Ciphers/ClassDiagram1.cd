@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ciphers.BitBlock">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAEABUEbAAIAABAAAKAAAAAAgACAAAUAAA=</HashCode>
+      <FileName>BitBlock.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ciphers.Helpers">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgACAAAAAAAAAACABAAAAAAQIAAAACAAAAAQCA=</HashCode>
+      <FileName>Helpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ciphers.ElGamal">
+    <Position X="8.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAIAQAAAAASAAAAABQAQIAAEAAgAEAQAEAAAQA=</HashCode>
+      <FileName>ElGamal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ciphers.RSA">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQQAAAAAWAAAAABQAQAAAEEAGEGAAAEAAAAA=</HashCode>
+      <FileName>RSA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ciphers.TripleDES">
+    <Position X="11" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="Ciphers.TripleDES.ProcessType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>3DES.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQBAAAgQAAEAIAHQAgAAAAAAAIAAAAgAAAAAEAGQAAA=</HashCode>
+      <FileName>3DES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ciphers.DesReferenceTables">
+    <Position X="3.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAUAAAAQAAAAAAAAAAAAAAAQwQYAAAAAgCgIA=</HashCode>
+      <FileName>DESTables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
